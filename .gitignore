@@ -1,3 +1,2 @@
-./config.php
-./dump
-./idea
+.idea
+config.php

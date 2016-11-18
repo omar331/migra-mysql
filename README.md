@@ -1,10 +1,7 @@
-# Simply mongodb migration script
+# Simply mysql migration script
 
 
 ### Requirements
 
-* mongodump 3.0+
-* mongorestore 3.0+
+* mysql clients (mysql and mysqldump)
 
-
-# mongo-migrate
